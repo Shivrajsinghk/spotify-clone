@@ -1,0 +1,15 @@
+{
+    "title": "Bella",
+    "description": "Bella for you",
+    "cover": "cover.jpg",
+    "songs": [
+    {
+        "name": "Antidote",
+        "file": "Antidote.mp3"
+    },
+    {
+        "name": "Bloom",
+        "file": "Bloom.mp3"
+    }
+    ]
+}

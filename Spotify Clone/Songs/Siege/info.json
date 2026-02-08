@@ -1,0 +1,15 @@
+{
+    "title": "Siege",
+    "description": "Siege tracks",
+    "cover": "cover.jpg",
+    "songs": [
+    { 
+        "name": "Bout That Life", 
+        "file": "Bout That Life.mp3" 
+    },
+    { 
+        "name": "Ek Din", 
+        "file": "Ek Din.mp3" 
+    }
+    ]
+}
