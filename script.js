@@ -81,12 +81,7 @@ function playMusic(track, pause=false){
 async function displayAlbums(){
     const folders = [
         "Bella",
-        "Bollywood",
-        "Dino James",
-        "Jani",
-        "Miscellaneous",
         "Siege",
-        "Talha Anjum"
     ];
     let cardContainer = document.querySelector(".cardContainer");   
     cardContainer.innerHTML = "";
@@ -295,4 +290,5 @@ document.querySelector("#searchInput").addEventListener("input", () => {
 });
 
 displayAlbums()
+
 main("Bella")
